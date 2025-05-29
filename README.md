@@ -1,4 +1,4 @@
-# calculator-c-
+# calculator-c++
 This is a simple command-line calculator implemented in C++.
 A command-line calculator built using modern C++ practices with robust error handling and input validation. Supports essential arithmetic operations with a clean, user-friendly interface.
 
